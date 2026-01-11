@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c9ed7fcf6cefe09b",
+    "type": "split",
+    "children": [
+      {
+        "id": "90152f2685161945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfdd7f56d22568ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_posts/2026-01-11-my-tech-goals-for-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-11-my-tech-goals-for-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce6e921603fb88b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "df44d6bac21c2cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa17e05a57e1a549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7c3b9473b0f52dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b1ce14f338e70e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.50043487548828
+  },
+  "right": {
+    "id": "8c2da5293fbc7596",
+    "type": "split",
+    "children": [
+      {
+        "id": "acf8d81315c08211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4867f80912b83195",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/_posts/2026-01-11-my-tech-goals-for-2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-01-11-my-tech-goals-for-2026"
+            }
+          },
+          {
+            "id": "8e85d63db7345caf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/_posts/2026-01-11-my-tech-goals-for-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-01-11-my-tech-goals-for-2026"
+            }
+          },
+          {
+            "id": "0ea4b6db28e7c599",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d35fd3991b0119bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "215f8707c75c1a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/_posts/2026-01-11-my-tech-goals-for-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-01-11-my-tech-goals-for-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa17e05a57e1a549",
+  "lastOpenFiles": [
+    "ideas.md",
+    "docs/assets/img/tech-goals-2026.png",
+    "ideas.md.md",
+    "docs/_posts/2026-01-11-my-tech-goals-for-2026.md",
+    "README.md",
+    "docs/_posts/test.md"
+  ]
+}
