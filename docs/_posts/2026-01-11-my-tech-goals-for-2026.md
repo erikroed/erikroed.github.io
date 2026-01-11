@@ -13,7 +13,7 @@ tags:
   - network
   - homelab
 ---
-![Tech goals for 2026][assets/img/tech-goals-2026.png]
+![Tech goals for 2026](assets/img/tech-goals-2026.png)
 Like many developers and tech enthusiasts, I have a long list of personal projects. Some are half-finished, some barely started, and some exist only as ideas. In 2026, I want to do a better job of finishing these - or at least getting them to a state this is *good enough*. 
 
 This blog is one of the steps to achieve this. I want to use it as a form of motivation and accountability for myself — a place where I document what I’m working on, what I’m learning, and, most importantly, what I actually *finish*. The goal isn’t perfection, but progress.

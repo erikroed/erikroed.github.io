@@ -1,5 +1,5 @@
 title: Røed.Dev
-email: devroed@proton.me
+email: eriroee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal tech blog. Writing about geeky and techy stuff I find interesting in relation
   to my home lab. Expect things like automation, platforms, devops, kubernetes, proxmox, neovim +++
@@ -7,7 +7,7 @@ lang: en-US
 timezone: Europe/Oslo 
 repo: https://github.com/erikroed/erikroed.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roed.dev" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 github_username:  erikroed
 mode: dark
